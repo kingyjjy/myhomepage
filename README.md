@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yeonji%20Github!&fontSize=90&fontColor=#333333)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📚tech stack📚
+🌍 language : 
+<br/><br/>
+<img alt="firebase" src ="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black"/> 
+<img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/> 
+<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+<img alt="jquery" src="https://img.shields.io/badge/jquery-0769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/> 
+<img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/> 
+<br/><br/>
 
-## Available Scripts
+## 📢소개📢
+react기반으로 만들어 firebase를 사용한 홈피입니다.<br/>
+회원가입후 이메일 인증을 받고 로그인을 하면 홈페이지가 등장합니다.<br/>
+이미지 업로드가 가능하고 방명록 시스템이 있습니다.<br/>
 
-In the project directory, you can run:
 
-### `npm start`
+## 🔎How to🔎
+- zip파일 다운로드
+- node_module 을 install
+- 터미널에서 npm start후 실행
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## 💻예시 화면💻
+![login](https://github.com/kingyjjy/react-practice-useState/assets/141803642/a6f361de-fd71-4336-9b3a-822600532aa5)
+![profile](https://github.com/kingyjjy/react-practice-useState/assets/141803642/f9752f16-cd46-4566-8b76-33f31abed1d1)
+![bbs](https://github.com/kingyjjy/react-practice-useState/assets/141803642/66751915-64fb-4004-bffc-d362aa157f06)
+![imgupload](https://github.com/kingyjjy/react-practice-useState/assets/141803642/0d8080ad-ee72-4807-8773-a89b6ada9d2c)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
